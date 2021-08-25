@@ -1,6 +1,6 @@
 # Diego L. Alexandre
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-<img src="https://img.shields.io/badge/ FORTALEZA,CE - BRAZIL-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white">
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Diegooualexandre" alt="Diego Alexandre" /></p>
 
 ### Hi / Olá 👋
 I'm a telematics technician student starting at the amazing world of development!
