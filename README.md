@@ -7,7 +7,7 @@ I'm a telematics technician student starting at the amazing world of development
 Sou um estudante de tecnologia em telemática entrando no maravilhoso mundo do desenvolvimento!
 - 👨‍💻 All of my projects are available at https://github.com/Diegooualexandre?tab=repositories
 - 📝 I regularly write articles on https://alexandrejourney.wordpress.com
-- 🤝 I’m looking to collaborate on data science and machine learning projects(python). 
+- 🤝 I’m looking to collaborate on data Java projects. 
 
 ![YOUR GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegooualexandre&show_icons=true&theme=dark)
 
